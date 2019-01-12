@@ -1,0 +1,4 @@
+<resources>
+    <string name="hello_world">Hello Round World!</string>
+    <string name="honk_horn">Do you want to honk the horn?</string>
+</resources>
