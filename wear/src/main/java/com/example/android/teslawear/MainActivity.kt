@@ -47,7 +47,7 @@ class MainActivity : WearableActivity() {
                 "e4a9949fcfa04068f59abb5a658f2bac0a3428e4652315490b659d5ab3f35a9e",
                 "c75f14bbadc8bee3a7594412c31416f8300256d7668ea7e6e7f06727bfb9d220",
                 "bowen9284@gmail.com",
-                "3sQ8O*Kad#8h").enqueue(tokenCallback)
+                "").enqueue(tokenCallback)
         }
     }
 
